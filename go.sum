@@ -1,4 +1,2 @@
-github.com/rustamfozilov/bank v0.0.0-20210912204934-92e2b55ce655 h1:bo6jCevFBkha/JPG0y7pfKzeFE10eh62Nx3wvvOym/g=
-github.com/rustamfozilov/bank v0.0.0-20210912204934-92e2b55ce655/go.mod h1:607Fz/VJbXC5FNuzPukqU5PbPNF2uIrbls+2sisLsH8=
-github.com/rustamfozilov/bank v0.0.0-20210913161851-d847f94614de h1:ahGHMDw9RoYSMIZuUKpClHKaYSxDzOJqA946QZ2lmT8=
-github.com/rustamfozilov/bank v0.0.0-20210913161851-d847f94614de/go.mod h1:607Fz/VJbXC5FNuzPukqU5PbPNF2uIrbls+2sisLsH8=
+github.com/rustamfozilov/bank/v2 v2.0.0 h1:2sbbX8QjnlkAJmiVQca0qPwXQDPFBULrvifSBWmhGlU=
+github.com/rustamfozilov/bank/v2 v2.0.0/go.mod h1:JXkq0XS/wq5CZZoGSd4q1VPI0KmTEouC6b0Fgqa1Lw0=
