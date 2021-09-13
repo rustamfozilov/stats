@@ -1,4 +1,4 @@
-module github.com/rustamfozilov/stats.git
+module github.com/rustamfozilov/stats
 
 go 1.17
 
