@@ -54,3 +54,14 @@ func countCategoryInPayments(categories map[types.Category]types.Money, payments
 	}
 	return CountOfCategories
 }
+
+func PeriodsDynamic(first map[types.Category]types.Money, second map[types.Category]types.Money) map[types.Category]types.Money  {
+	Dynamic := map[types.Category]types.Money{}
+	for firstCategory := range first {
+		 Dynamic[firstCategory] = second[firstCategory] - first[firstCategory]
+	}
+	for secondCategory := range second {
+		      Dynamic[secondCategory]= second[secondCategory] - first[secondCategory]
+	}
+	return Dynamic
+}
